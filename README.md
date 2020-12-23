@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## Gabriel Soares - 💻 
 
 
-Tenho 24 anos, moro em São Paulo, capital. Sou apaixonado por programação e esportes! Sou iniciante no universo da programação, caçador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo e cresço nisso! É uma grande satisfação ter você na minha página GitHub, espero que goste dos repositórios que encontra aqui, fique à vontade para baixar e até contribuir com ideias de melhorias, pois o trabalho em equipe é uma das coisas que mais me motivam. 
+Tenho 24 anos, moro em São Paulo, capital. Sou apaixonado por programação e esportes! Sou iniciante no universo da programação, caçador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo e cresço nisso! É uma grande satisfação ter você na minha página do Github, espero que goste dos repositórios que encontra aqui, fique à vontade para baixar e até contribuir com ideias e melhorias, pois o trabalho em equipe é uma das coisas que mais me motivam. 
 
 ### 🌎 "Quanto mais eu sei, mais eu sou" 🧠
 
