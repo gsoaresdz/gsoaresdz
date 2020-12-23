@@ -27,7 +27,9 @@ Tenho 24 anos, moro em São Paulo, capital. Sou apaixonado por programação e e
 ### 🌎 "Quanto mais eu sei, mais eu sou" 🧠
 
 🖥️ Tecnologias: HTML | CSS | Java | JavaScript;
+
 🔭 Analista de Sistemas na [Stefanini](https://stefanini.com/pt-br) e
+
 ⚙ Atualmente tenho me dedicado aos estudos de Java e Javascript.
 
 ## Sobre mim 
