@@ -34,7 +34,7 @@ Tenho 24 anos, moro em São Paulo, capital. Sou apaixonado por programação e e
 
 ## Sobre mim 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gsoaresdesouza//)](https://www.linkedin.com/in/gsoaresdesouza//)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gsoaresdesouza@gmail.com)](gsoaresdesouza@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gsoaresdesouza@gmail.com)](mailto:gsoaresdesouza@gmail.com)
 
 - Obrigado pela visita!
 
