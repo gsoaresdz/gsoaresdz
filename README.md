@@ -26,11 +26,11 @@ Tenho 24 anos, moro em São Paulo, capital. Sou apaixonado por programação e e
 
 ### 🌎 "Quanto mais eu conheço, mais eu sou" 🧠
 
-🖥️ Tecnologias: HTML | CSS | Java | JavaScript;
+🖥️ Tecnologias: HTML | CSS | Java | Python;
 
 🔭 Analista de Sistemas na [Stefanini](https://stefanini.com/pt-br) e
 
-⚙ Atualmente tenho me dedicado aos estudos de Java e Javascript.
+⚙ Atualmente tenho me dedicado aos estudos de Java e Python.
 
 ## Sobre mim 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gsoaresdesouza//)](https://www.linkedin.com/in/gsoaresdesouza//)
