@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" height="190px" src="https://media.giphy.com/media/GnTHlXYp08VDJllWj7/giphy.gif" />
 
-# Olá!, Meu nome é Gabriel Soares! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+# Olá! Meu nome é Gabriel Soares! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 Tenho 24 anos, vivendo atualmente no Brasil e trabalhando remotamente. Apaixonado por por desenvolvimento {Full Stack Web e Mobile}. Sou iniciante no universo da programação, caçador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo e cresço nisso! É uma grande satisfação ter você na minha página do Github, espero que goste dos repositórios que encontra aqui, fique à vontade para baixar e até contribuir com ideias e melhorias, pois o trabalho em equipe é uma das coisas que mais me motivam. :earth_americas:
 
 ### 🌎 "Quanto mais eu conheço, mais eu sou" 🧠
