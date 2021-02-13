@@ -58,8 +58,8 @@ Tenho 24 anos, vivendo atualmente no Brasil e trabalhando remotamente. Apaixonad
 | Entidade | Curso | Data | Situação | Detalhes |
 | -------- | ------- | --------- | -------- | ------- |
 | Alura | Oracle Next Education | Setembro/2021 | Em andamento :warning: |
-| B7 WEB | Fullstck | Janeiro/2021 | Em andamento :warning: | 
-| UNIP | Análise de Desenvolvimento de Sistemas | Abril/2021 | Concluido :heavy_check_mark: | 
+| B7 WEB | Fullstack | Janeiro/2021 | Em andamento :warning: | 
+| UNIP | Análise de Desenvolvimento de Sistemas | Janeiro/2019 | Concluido :heavy_check_mark: | 
 
 ## Linguages e ferramentas
 [<code>
