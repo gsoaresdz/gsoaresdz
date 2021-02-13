@@ -16,7 +16,7 @@ Tenho 24 anos, vivendo atualmente no Brasil e trabalhando remotamente. Apaixonad
 
 ## Atividades
 
-  ### :men_technologist: Atualmente estou estudando: 
+  ### :👨‍💻: Atualmente estou estudando: 
   - Projetos dos Bootcamps nos quais estou inscrito
 
   ### :nerd_face: Atualmente estou aprendendo:
