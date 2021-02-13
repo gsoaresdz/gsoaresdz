@@ -37,22 +37,29 @@ Tenho 24 anos, vivendo atualmente no Brasil e trabalhando remotamente. Apaixonad
   - :house: Minha casa
   - :blue_book: Ler
   - :airplane: Viajar
-  - :walking_woman: Caminhar
+  - 🏃‍♂️ Caminhar
   
   ### :infinity: Conhecimentos
 
-      | Banco de Dados | Programação | DevOps / Infraestrutura  | UX e Design     | Data Science | 
-      | -------------- | ----------- | -----------------------  | --------------- | ------------ |
-      | MySQL          | HTML        | Git e Github             | PowerPoint      | Power BI     | 
-      |                | CSS         | Redes                    | User Experience | Excel
-      |                |             | Linux                    |
-      |                |             | Windows                  |
-      |                |             | 
+      | Programação    | Front-end   | DevOps / Infraestrutura  | UX e Design     | Data Science | Inovação e Gestão | 
+      | -------------- | ----------- | -----------------------  | --------------- | ------------ | ----------------- |
+      |                | HTML        | Git e Github             | PowerPoint      | Power BI     | ITIL Foundation   |
+      |                | CSS         | Redes                    | User Experience | Excel        | Produtividade     |
+      |                |             | Linux                    |                 | MySQL        | Empreendedorismo  |
+      |                |             | Windows                  |                 |              | Métodos Ágeis     |
+      |                |             |                          |                 |              | Salesforce        |
 
 ## Estatísticas e linguages
 ![gsoaresdz GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsoaresdz&show_icons=true)
 
 ![gsoaresdz GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gsoaresdz&show_icons=true)
+
+## Cursos
+| Entidade | Curso | Data | Situação | Detalhes |
+| -------- | ------- | --------- | -------- | ------- |
+| Alura | Oracle Next Education | Setembro/2021 | Em andamento :warning: |
+| B7 WEB | Fullstck | Janeiro/2021 | Em andamento :warning: | 
+| UNIP | Análise de Desenvolvimento de Sistemas | Abril/2021 | Concluido :heavy_check_mark: | 
 
 ## Linguages e ferramentas
 [<code>
