@@ -30,11 +30,6 @@ Tenho 24 anos, vivendo atualmente no Brasil e trabalhando remotamente. Apaixonad
   ### :thinking: Eu quero aprender:
   - Phython
   - Javascript
-  - Angular
-  - Vue.Js
-  - Node.Js
-  - Php
-  - Flutter
   - Java
 
   ### 😎 Fora do desenvolvimento, eu gosto de:
