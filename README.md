@@ -15,11 +15,17 @@ Tenho 24 anos, vivendo atualmente no Brasil e trabalhando remotamente. Apaixonad
 ## Atividades
 
   ### 👨‍💻 Atualmente estou estudando: 
-  - Projetos dos Bootcamps nos quais estou inscrito
+  - Front-end na Alura e o Curso de Fullstack do B7WEB.
 
   ### :nerd_face: Atualmente estou aprendendo:
   - HTML 
   - CSS
+  - Excel
+  - Scrum
+  - UX
+  - Redes
+  - Git e Github
+  - MySQL
 
   ### :thinking: Eu quero aprender:
   - Phython
