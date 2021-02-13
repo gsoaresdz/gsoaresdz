@@ -59,7 +59,7 @@ Tenho 24 anos, vivendo atualmente no Brasil e trabalhando remotamente. Apaixonad
 | -------- | ------- | --------- | -------- | ------- |
 | Alura | Oracle Next Education | Setembro/2021 | Em andamento :warning: | <a href="https://github.com/gsoaresdz/Curso-Alura-e-Alura-Oracle-Next-Education">Link</a> |
 | B7 WEB | Fullstack | Janeiro/2021 | Em andamento :warning: | 
-| UNIP | Análise de Desenvolvimento de Sistemas | Janeiro/2019 | Concluido :heavy_check_mark: | 
+| UNIP | Análise de Desenvolvimento de Sistemas | Janeiro/2019 | Concluido :heavy_check_mark: | <a href="https://github.com/gsoaresdz/Faculdade-UNIP-ADS">Link</a>
 
 ## Linguages e ferramentas
 [<code>
