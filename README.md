@@ -1,5 +1,5 @@
 <!-- https://emojipedia.org/ -->
-:spiral_calendar: Atualizado em 13 Fevereiro de 2021 :heart:
+:spiral_calendar: Atualizado em 13 Fevereiro de 2021 💎
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -16,7 +16,7 @@ Tenho 24 anos, vivendo atualmente no Brasil e trabalhando remotamente. Apaixonad
 
 ## Atividades
 
-  ### :👨‍💻: Atualmente estou estudando: 
+  ### 👨‍💻 Atualmente estou estudando: 
   - Projetos dos Bootcamps nos quais estou inscrito
 
   ### :nerd_face: Atualmente estou aprendendo:
@@ -33,9 +33,9 @@ Tenho 24 anos, vivendo atualmente no Brasil e trabalhando remotamente. Apaixonad
   - Flutter
   - Java
 
-  ### :heart: Fora do desenvolvimento, eu gosto de:
+  ### 😎 Fora do desenvolvimento, eu gosto de:
   - :cinema: Cinema
-  - :woman_cook: Cozinhar
+  - ⚽ Esportes
   - :house: Minha casa
   - :blue_book: Ler
   - :airplane: Viajar
