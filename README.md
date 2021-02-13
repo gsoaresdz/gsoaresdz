@@ -8,7 +8,7 @@ Tenho 24 anos, vivendo atualmente no Brasil e trabalhando remotamente. Apaixonad
 
 ### 🌎 "Quanto mais eu conheço, mais eu sou" 🧠
 
-## Sobre mim 
+## 🔗 Conecte-se comigo!  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gsoaresdesouza//)](https://www.linkedin.com/in/gsoaresdesouza//)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gsoaresdesouza@gmail.com)](mailto:gsoaresdesouza@gmail.com)
 
