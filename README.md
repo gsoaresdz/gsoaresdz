@@ -26,6 +26,7 @@ Tenho 24 anos, vivendo atualmente no Brasil e trabalhando remotamente. Apaixonad
   - Redes
   - Git e Github
   - MySQL
+  - Inglês
 
   ### :thinking: Eu quero aprender:
   - Phython
