@@ -22,7 +22,7 @@ Tenho 24 anos, vivendo atualmente no Brasil e trabalhando remotamente. Apaixonad
   - CSS
   - Excel
   - Scrum
-  - UX
+  - Elasticsearch 
   - Redes
   - Git e Github
   - MySQL
