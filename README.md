@@ -20,12 +20,10 @@ Tenho 24 anos, vivendo atualmente no Brasil e trabalhando remotamente. Apaixonad
   ### :nerd_face: Atualmente estou aprendendo:
   - HTML 
   - CSS
-  - Excel
+  - ITIL
+  - Salesforce
   - Scrum
-  - Elasticsearch 
   - Redes
-  - Git e Github
-  - MySQL
   - Inglês
 
   ### :thinking: Eu quero aprender:
