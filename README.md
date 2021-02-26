@@ -27,9 +27,8 @@ Tenho 24 anos, vivendo atualmente no Brasil e trabalhando remotamente. Apaixonad
   - Inglês
 
   ### :thinking: Eu quero aprender:
-  - Phython
   - Javascript
-  - Java
+  - Photoshop
 
   ### 😎 Fora do desenvolvimento, eu gosto de:
   - :cinema: Cinema
