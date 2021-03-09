@@ -49,7 +49,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Projeto|Meu portfólio    |:purple_circle: |<a href="">Clique-me</a>|HTML5 e CSS3
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :B7 WEB - Fullstack (14/03/2021)
+## :label: B7 WEB - Fullstack (14/03/2021)
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
 |Projeto|Meu portfólio    |:purple_circle: |<a href="">Clique-me</a>|HTML5 e CSS3
