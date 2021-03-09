@@ -6,7 +6,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-# Olá!, Meu nome é Rosemeire Deconti! <img align="right" alt="GIF" height="190px" src="https://media.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif" />
+# Olá! Meu nome é Gabriel Soares! 
 
 - Apaixonado por desenvolvimento.
 - Vivendo atualmente no Brasil e trabalhando remotamente. 
