@@ -1,64 +1,66 @@
-<!-- https://emojipedia.org/ -->
-:spiral_calendar: Atualizado em 13 Fevereiro de 2021 💎
+# Página em constante atualização
 
-<img align="right" alt="GIF" height="190px" src="https://media.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif" />
+:spiral_calendar: Atualizado em 09 de Março de 2021 💎
 
-# Olá! Meu nome é Gabriel Soares! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
-Tenho 24 anos, vivendo atualmente no Brasil e trabalhando remotamente. Apaixonado por desenvolvimento {Full Stack Web e Mobile}. Sou iniciante no universo da programação, caçador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo e cresço nisso! É uma grande satisfação ter você na minha página do Github, espero que goste dos repositórios que encontra aqui, fique à vontade para baixar e até contribuir com ideias e melhorias, pois o trabalho em equipe é uma das coisas que mais me motivam. :earth_americas:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 🌎 "Quanto mais eu conheço, mais eu sou" 🧠
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+# Olá!, Meu nome é Rosemeire Deconti! <img align="right" alt="GIF" height="190px" src="https://media.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif" />
+
+- Apaixonado por desenvolvimento.
+- Vivendo atualmente no Brasil e trabalhando remotamente. 
+- Aberta a novas oportunidades de trabalho!
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🔗 Conecte-se comigo!  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gsoaresdesouza//)](https://www.linkedin.com/in/gsoaresdesouza//)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gsoaresdesouza@gmail.com)](mailto:gsoaresdesouza@gmail.com)
 
-## Atividades
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-  ### 👨‍💻 Atualmente estou estudando: 
-  - Front-end na Alura e o Curso de Fullstack do B7WEB.
+## :bar_chart: Estatísticas e linguages
+<p>
+  <a href="https://github.com/gsoaresdz">
+    <img width="450px" src="https://github-readme-stats.vercel.app/api?username=gsoaresdz&show_icons=true&theme=omni" alt="gsoaresdz :: Profile Stats" />
+    <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsoaresdz&langs_count=6&theme=omni&layout=compact" alt="gsoaresdz :: TopLangs" />
+ </a>
+</p>
 
-  ### :nerd_face: Atualmente estou aprendendo:
-  - HTML 
-  - CSS
-  - ITIL
-  - Salesforce
-  - Scrum
-  - Redes
-  - Inglês
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## :label: Relação de projetos e desafios:
+Aqui está a lista de projetos e desafios nos quais participei ou estou participando. Legenda: 
+- :white_circle: Em aberto
+- :yellow_circle: Em andamento
+- :purple_circle: Em estudo
+- :green_circle: Concluído
 
-  ### :thinking: Eu quero aprender:
-  - Javascript
-  - Photoshop
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## :label: Projetos próprios (31/12/2021)
+|Tipo|Nome|Situação|Detalhes|Ferramentas|
+|----|----|--------|--------|-----------|
+|Projeto|Meu portfólio    |:purple_circle: |<a href="">Clique-me</a>|HTML5 e CSS3
 
-  ### 😎 Fora do desenvolvimento, eu gosto de:
-  - :cinema: Cinema
-  - ⚽ Esportes
-  - :house: Minha casa
-  - :blue_book: Ler
-  - :airplane: Viajar
-  - 🏃‍♂️ Caminhar
-  
-  ### :infinity: Conhecimentos
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## :label: Oracle Next Education & Alura (31/12/2021)
+|Tipo|Nome|Situação|Detalhes|Ferramentas|
+|----|----|--------|--------|-----------|
+|Projeto|Meu portfólio    |:purple_circle: |<a href="">Clique-me</a>|HTML5 e CSS3
 
-      | Programação    | Front-end   | DevOps / Infraestrutura  | UX e Design     | Data Science | Inovação e Gestão | 
-      | -------------- | ----------- | -----------------------  | --------------- | ------------ | ----------------- |
-      |                | HTML        | Git e Github             | PowerPoint      | Power BI     | ITIL Foundation   |
-      |                | CSS         | Redes                    | User Experience | Excel        | Produtividade     |
-      |                |             | Linux                    |                 | MySQL        | Empreendedorismo  |
-      |                |             | Windows                  |                 |              | Métodos Ágeis     |
-      |                |             |                          |                 |              | Salesforce        |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## :B7 WEB - Fullstack (14/03/2021)
+|Tipo|Nome|Situação|Detalhes|Ferramentas|
+|----|----|--------|--------|-----------|
+|Projeto|Meu portfólio    |:purple_circle: |<a href="">Clique-me</a>|HTML5 e CSS3
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Estatísticas e linguages
-![gsoaresdz GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsoaresdz&show_icons=true)
+## :label: Digital Innovation One Bootcamp HTML Web Developer (15/03/2021)
+|Tipo|Nome|Situação|Detalhes|Ferramentas|
+|----|----|--------|--------|-----------|
+|Projeto|Meu portfólio    |:purple_circle: |<a href="">Clique-me</a>|HTML5 e CSS3
 
-![gsoaresdz GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gsoaresdz&show_icons=true)
-
-## Cursos
-| Entidade | Curso | Data | Situação | Detalhes |
-| -------- | ------- | --------- | -------- | ------- |
-| Alura | Oracle Next Education & Alura | Setembro/2020 | Em andamento :warning: | <a href="https://github.com/gsoaresdz/Curso-Alura-e-Alura-Oracle-Next-Education">Link</a> |
-| B7 WEB | Fullstack | Janeiro/2021 | Em andamento :warning: | <a href="https://github.com/gsoaresdz/Curso-B7Web">Link</a>
-| UNIP | Análise de Desenvolvimento de Sistemas | Janeiro/2019 | Concluido :heavy_check_mark: | <a href="https://github.com/gsoaresdz/Faculdade-UNIP-ADS">Link</a>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Linguages e ferramentas
 [<code>
