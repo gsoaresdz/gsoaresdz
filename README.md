@@ -55,14 +55,6 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Projeto|Meu portfólio    |:purple_circle: |<a href="">Clique-me</a>|HTML5 e CSS3
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## :label: Digital Innovation One Bootcamp HTML Web Developer (15/03/2021)
-|Tipo|Nome|Situação|Detalhes|Ferramentas|
-|----|----|--------|--------|-----------|
-|Projeto|Meu portfólio    |:purple_circle: |<a href="">Clique-me</a>|HTML5 e CSS3
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## Linguages e ferramentas
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
