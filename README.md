@@ -40,13 +40,13 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ## :label: Projetos próprios (31/12/2021)
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
-|Projeto|Meu portfólio    |:purple_circle: |<a href="">Clique-me</a>|HTML5 e CSS3
+|Projeto|Sabor de infância Gourmet|:purple_circle: |<a href="https://github.com/gsoaresdz/Sabor-de-Infancia-Gourmet">Clique-me</a>|HTML5 e CSS3
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Oracle Next Education & Alura (31/12/2021)
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
-|Projeto|Meu portfólio    |:purple_circle: |<a href="">Clique-me</a>|HTML5 e CSS3
+|Projeto|Meu portfólio    |:yellow_circle: |<a href="">Clique-me</a>|HTML5 e CSS3
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: B7 WEB - Fullstack (14/03/2021)
