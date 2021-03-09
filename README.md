@@ -40,7 +40,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ## :label: Projetos próprios (31/12/2021)
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
-|Projeto|Sabor de infância Gourmet|:purple_circle: |<a href="https://github.com/gsoaresdz/Sabor-de-Infancia-Gourmet">Clique-me</a>|HTML5 e CSS3
+|Projeto|Sabor de infância Gourmet|:yellow_circle:|<a href="https://github.com/gsoaresdz/Sabor-de-Infancia-Gourmet">Clique-me</a>|HTML5 e CSS3
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Oracle Next Education & Alura (31/12/2021)
