@@ -25,6 +25,7 @@
   <a href="https://github.com/gsoaresdz">
     <img width="450px" src="https://github-readme-stats.vercel.app/api?username=gsoaresdz&show_icons=true&theme=omni" alt="gsoaresdz :: Profile Stats" />
     <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsoaresdz&langs_count=6&theme=omni&layout=compact" alt="gsoaresdz :: TopLangs" />
+    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gsoaresdz)](https://github.com/gsoaresdz/github-readme-stats)
  </a>
 </p>
 
