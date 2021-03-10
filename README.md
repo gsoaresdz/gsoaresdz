@@ -46,7 +46,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ## :label: Oracle Next Education & Alura 
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
-|Projeto|Meu portfólio    |:yellow_circle: |<a href="">Clique-me</a>|HTML5 e CSS3
+|Projeto|Barbearia Alura    |:yellow_circle: |<a href="https://github.com/gsoaresdz/Barbearia-Alura">Clique-me</a>|HTML5 e CSS3
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: B7 WEB - Fullstack 
