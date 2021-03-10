@@ -52,7 +52,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ## :label: B7 WEB - Fullstack 
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
-|Projeto|Meu portfólio    |:purple_circle: |<a href="">Clique-me</a>|HTML5 e CSS3
+|Projeto|Awax    |:purple_circle: |<a href="https://github.com/gsoaresdz/Awax">Clique-me</a>|HTML5 e CSS3
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [<code>
