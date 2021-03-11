@@ -54,6 +54,11 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |----|----|--------|--------|-----------|
 |Projeto|Awax    |:purple_circle: |<a href="https://github.com/gsoaresdz/Awax">Clique-me</a>|HTML5 e CSS3
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## :label: Caelum
+|Tipo|Nome|Situação|Detalhes|Ferramentas|
+|----|----|--------|--------|-----------|
+|Projeto|Musicdot    |:purple_circle: |<a href="https://github.com/gsoaresdz/Musicdot/tree/main/projeto-musicdot">Clique-me</a>|HTML5 e CSS3
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
