@@ -62,7 +62,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ## :label: Rocketseat
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
-|Projeto|Podcast    |:purple_circle: |<a href="">Clique-me</a>|HTML5 e CSS3
+|Projeto|Podcast    |:purple_circle: |<a href="">Clique-me</a>|ReactJS
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [<code>
