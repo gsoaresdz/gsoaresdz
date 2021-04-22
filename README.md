@@ -67,7 +67,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ## :label: Prática
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
-|Formulário|Cadastro de DEVs    |:green_circle:|<a href="">Clique-me</a>|ReactJS
+|Formulário|Cadastro de DEVs    |:green_circle:|<a href="">Clique-me</a>|HTML e CSS
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [<code>
