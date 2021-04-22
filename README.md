@@ -64,6 +64,11 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |----|----|--------|--------|-----------|
 |Projeto|Podcast    |:purple_circle: |<a href="">Clique-me</a>|ReactJS
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## :label: Prática
+|Tipo|Nome|Situação|Detalhes|Ferramentas|
+|----|----|--------|--------|-----------|
+|Formulário|Cadastro de DEVs    |:green_circle:|<a href="">Clique-me</a>|ReactJS
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
