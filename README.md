@@ -37,28 +37,6 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 - :green_circle: Concluído
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Projetos próprios 
-|Tipo|Nome|Situação|Detalhes|Ferramentas|
-|----|----|--------|--------|-----------|
-|Projeto|Sabor de infância Gourmet|:yellow_circle:|<a href="https://github.com/gsoaresdz/Sabor-de-Infancia-Gourmet">Clique-me</a>|HTML5 e CSS3
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Oracle Next Education & Alura 
-|Tipo|Nome|Situação|Detalhes|Ferramentas|
-|----|----|--------|--------|-----------|
-|Projeto|Barbearia Alura    |:yellow_circle: |<a href="https://github.com/gsoaresdz/Barbearia-Alura">Clique-me</a>|HTML5 e CSS3
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: B7 WEB - Fullstack 
-|Tipo|Nome|Situação|Detalhes|Ferramentas|
-|----|----|--------|--------|-----------|
-|Projeto|Awax    |:purple_circle: |<a href="https://github.com/gsoaresdz/Awax">Clique-me</a>|HTML5 e CSS3
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Caelum
-|Tipo|Nome|Situação|Detalhes|Ferramentas|
-|----|----|--------|--------|-----------|
-|Projeto|Musicdot    |:purple_circle: |<a href="https://github.com/gsoaresdz/Musicdot/tree/main/projeto-musicdot">Clique-me</a>|HTML5 e CSS3
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Rocketseat
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
