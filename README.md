@@ -62,7 +62,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ## :label: Rocketseat
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
-|Projeto|Podcast    |:purple_circle: |<a href="">Clique-me</a>|ReactJS
+|Projeto|Podcast    |:purple_circle: |<a href="https://github.com/gsoaresdz/Podcastr">Clique-me</a>|ReactJS
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Prática
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
