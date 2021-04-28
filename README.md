@@ -41,6 +41,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
 |Formulário|Cadastro de DEVs    |:green_circle:|<a href="https://github.com/gsoaresdz/Formulario-CadastroDeDEVs">Clique-me</a>|HTML e CSS
+|Projeto|Sabor de Infância Gourmet   |:yellow_circle:|<a href="https://github.com/gsoaresdz/Sabor-de-Infancia-Gourmet">Clique-me</a>|HTML e CSS
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [<code>
