@@ -1,6 +1,6 @@
 # Página em constante atualização
 
-:spiral_calendar: Atualizado em 28 de Abril de 2021 💎
+:spiral_calendar: Atualizado em 13 de Maio de 2021 💎
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -40,8 +40,9 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ## :label: Prática
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
-|Formulário|Cadastro de DEVs    |:green_circle:|<a href="https://github.com/gsoaresdz/Formulario-CadastroDeDEVs">Clique-me</a>|HTML e CSS
-|Projeto|Sabor de Infância Gourmet   |:yellow_circle:|<a href="https://github.com/gsoaresdz/Sabor-de-Infancia-Gourmet">Clique-me</a>|HTML e CSS
+|Formulário|Cadastro de DEVs    |:green_circle:|<a href="https://github.com/gsoaresdz/Formulario-CadastroDeDEVs">Clique-me</a>|HTML5 e CSS3
+|Projeto|Sabor de Infância Gourmet   |:yellow_circle:|<a href="https://github.com/gsoaresdz/Sabor-de-Infancia-Gourmet">Clique-me</a>|HTML5 e CSS3
+|Página inicial|Logomarca   |:green_circle:|<a href="https://github.com/gsoaresdz/Logomarca">Clique-me</a>|HTML5 e CSS3
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [<code>
