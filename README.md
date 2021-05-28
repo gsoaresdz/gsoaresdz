@@ -36,7 +36,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 - :green_circle: Concluído
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Projetos em HTML 5, CSS3 e Bootstrap 4
+## :label: Projetos em HTML 5, CSS3 e Bootstrap 5
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
 |Formulário|Cadastro de DEVs    |:green_circle:|<a href="https://github.com/gsoaresdz/Formulario-CadastroDeDEVs">Clique-me</a>|HTML5 e CSS3
