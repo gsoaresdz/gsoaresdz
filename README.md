@@ -1,6 +1,6 @@
 # Página em constante atualização
 
-:spiral_calendar: Atualizado em 28 de Maio de 2021 💎
+:spiral_calendar: Atualizado em 31 de Maio de 2021 💎
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Página inicial|Logomarca   |:green_circle:|<a href="https://github.com/gsoaresdz/Logomarca">Clique-me</a>|HTML5 e CSS3
 |Página inicial|Portal   |:yellow_circle:|<a href="https://github.com/gsoaresdz/Portal">Clique-me</a>|HTML5 e CSS3
 |Projeto|Fruta & Fruto   |:yellow_circle:|<a href="https://github.com/gsoaresdz/Fruta---Fruto">Clique-me</a>|HTML5, CSS3 e Bootstrap 5
-|Projeto|Alurinha   |:yellow_circle:|<a href="https://github.com/gsoaresdz/Alurinha">Clique-me</a>|HTML5 e CSS3 com foco em Flexbox
+|Projeto|Alurinha   |:green_circle:|<a href="https://github.com/gsoaresdz/Alurinha">Clique-me</a>|HTML5 e CSS3 com foco em Flexbox
 |Página inicial|Alura Store   |:yellow_circle:|<a href="https://github.com/gsoaresdz/Alura-Store">Clique-me</a>|HTML5 e CSS3
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
