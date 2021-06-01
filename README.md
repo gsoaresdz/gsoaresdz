@@ -39,7 +39,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ## :label: Projetos com foco HTML 5, CSS3 e Bootstrap 5
 |Tipo|Nome|Situação|Detalhes
 |----|----|--------|--------
-|Projeto|Sabor de Infância Gourmet   |:green_circle:|<a href="https://github.com/gsoaresdz/Sabor-de-Infancia-Gourmet">Clique-me</a>
+|Projeto|Sabor de Infância Gourmet   |:green_circle: align="center"|<a href="https://github.com/gsoaresdz/Sabor-de-Infancia-Gourmet">Clique-me</a>
 |Página inicial|Logomarca   |:green_circle:|<a href="https://github.com/gsoaresdz/Logomarca">Clique-me</a>
 |Projeto|Fruta & Fruto   |:yellow_circle:|<a href="https://github.com/gsoaresdz/Fruta-e-Fruto">Clique-me</a>
 |Projeto|Alurinha   |:green_circle:|<a href="https://github.com/gsoaresdz/Alurinha">Clique-me</a>
