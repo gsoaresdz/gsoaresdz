@@ -1,6 +1,6 @@
 # Página em constante atualização
 
-:spiral_calendar: Atualizado em 31 de Maio de 2021 💎
+:spiral_calendar: Atualizado em 1 de Junho de 2021 💎
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -37,9 +37,9 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Projetos com foco HTML 5, CSS3 e Bootstrap 5
-|Tipo|Nome|Situação|Detalhes
+|Tipo|Nome|Status|Detalhes
 |----|----|--------|--------
-|Projeto|Sabor de Infância Gourmet   |  :green_circle:  |<a href="https://github.com/gsoaresdz/Sabor-de-Infancia-Gourmet">Clique-me</a>
+|Projeto|Sabor de Infância Gourmet   |:green_circle:|<a href="https://github.com/gsoaresdz/Sabor-de-Infancia-Gourmet">Clique-me</a>
 |Página inicial|Logomarca   |:green_circle:|<a href="https://github.com/gsoaresdz/Logomarca">Clique-me</a>
 |Projeto|Fruta & Fruto   |:yellow_circle:|<a href="https://github.com/gsoaresdz/Fruta-e-Fruto">Clique-me</a>
 |Projeto|Alurinha   |:green_circle:|<a href="https://github.com/gsoaresdz/Alurinha">Clique-me</a>
@@ -47,7 +47,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :label: Projetos com foco em JavaScript
-|Tipo|Nome|Situação|Detalhes
+|Tipo|Nome|Status|Detalhes
 |----|----|--------|--------
 |Página inicial|Portal   |:yellow_circle:|<a href="https://github.com/gsoaresdz/Portal">Clique-me</a>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
