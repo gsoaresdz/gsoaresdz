@@ -36,7 +36,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 - :green_circle: Concluído
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Projetos em HTML 5, CSS3 e Bootstrap 5
+## :label: Projetos com foco HTML 5, CSS3 e Bootstrap 5
 |Tipo|Nome|Situação|Detalhes
 |----|----|--------|--------
 |Projeto|Sabor de Infância Gourmet   |:green_circle:|<a href="https://github.com/gsoaresdz/Sabor-de-Infancia-Gourmet">Clique-me</a>
@@ -46,7 +46,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Página inicial|Alura Store   |:green_circle:|<a href="https://github.com/gsoaresdz/Alura-Store">Clique-me</a>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## :label: Projetos em HTML 5, CSS3 e JavaScript
+## :label: Projetos com foco em JavaScript
 |Tipo|Nome|Situação|Detalhes
 |----|----|--------|--------
 |Página inicial|Portal   |:yellow_circle:|<a href="https://github.com/gsoaresdz/Portal">Clique-me</a>
