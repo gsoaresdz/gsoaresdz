@@ -37,18 +37,18 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Projetos em HTML 5, CSS3 e Bootstrap 5
-|Tipo|Nome|Situação|Detalhes|Ferramentas|
-|----|----|--------|--------|-----------|
-|Projeto|Sabor de Infância Gourmet   |:green_circle:|<a href="https://github.com/gsoaresdz/Sabor-de-Infancia-Gourmet">Clique-me</a>|HTML5, CSS3 e Bootstrap 5
-|Página inicial|Logomarca   |:green_circle:|<a href="https://github.com/gsoaresdz/Logomarca">Clique-me</a>|HTML5 e CSS3
-|Projeto|Fruta & Fruto   |:yellow_circle:|<a href="https://github.com/gsoaresdz/Fruta-e-Fruto">Clique-me</a>|HTML5, CSS3 e Bootstrap 5
-|Projeto|Alurinha   |:green_circle:|<a href="https://github.com/gsoaresdz/Alurinha">Clique-me</a>|HTML5 e CSS3 com foco em Flexbox
-|Página inicial|Alura Store   |:green_circle:|<a href="https://github.com/gsoaresdz/Alura-Store">Clique-me</a>|HTML5 e CSS3 com foco CSS Grid. 
+|Tipo|Nome|Situação|Detalhes
+|----|----|--------|--------
+|Projeto|Sabor de Infância Gourmet   |:green_circle:|<a href="https://github.com/gsoaresdz/Sabor-de-Infancia-Gourmet">Clique-me</a>
+|Página inicial|Logomarca   |:green_circle:|<a href="https://github.com/gsoaresdz/Logomarca">Clique-me</a>
+|Projeto|Fruta & Fruto   |:yellow_circle:|<a href="https://github.com/gsoaresdz/Fruta-e-Fruto">Clique-me</a>
+|Projeto|Alurinha   |:green_circle:|<a href="https://github.com/gsoaresdz/Alurinha">Clique-me</a>
+|Página inicial|Alura Store   |:green_circle:|<a href="https://github.com/gsoaresdz/Alura-Store">Clique-me</a>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :label: Projetos em HTML 5, CSS3 e JavaScript
-|Tipo|Nome|Situação|Detalhes|Ferramentas|
-|----|----|--------|--------|-----------|
+|Tipo|Nome|Situação|Detalhes
+|----|----|--------|--------
 |Página inicial|Portal   |:yellow_circle:|<a href="https://github.com/gsoaresdz/Portal">Clique-me</a>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
