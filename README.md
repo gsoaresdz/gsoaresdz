@@ -49,7 +49,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ## :label: Projetos com foco em JavaScript
 |Tipo|Nome|Status|Detalhes
 |----|----|--------|--------
-|Página inicial|Portal   |:yellow_circle:|<a href="https://github.com/gsoaresdz/Portal">Clique-me</a>
+|Página inicial|Portal   |:green_circle:|<a href="https://github.com/gsoaresdz/Portal">Clique-me</a>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [<code>
