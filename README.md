@@ -6,7 +6,7 @@
 
 <img align="right" alt="GIF" height="190px" src="https://media.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif" />
 
-# Olá! Sejam muito bem-vindos, meu nome é Gabriel Soares.
+# Olá! Sejam bem-vindos!
 
 - Apaixonado por desenvolvimento.
 - Vivendo atualmente no Brasil e trabalhando remotamente. 
