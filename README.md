@@ -40,6 +40,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Tipo|Nome|Status|Detalhes
 |----|----|--------|--------
 |Projeto|Sabor de Infância Gourmet   |:green_circle:|<a href="https://github.com/gsoaresdz/Sabor-de-Infancia-Gourmet">Clique-me</a>
+|Projeto|Sabor de Infância Gourmet Versão 2  |:yellow_circle:|<a href="https://github.com/gsoaresdz/Sabor-de-Infancia-Gourmet-v2">Clique-me</a>
 |Projeto|Fruta & Fruto   |:green_circle:|<a href="https://github.com/gsoaresdz/Fruta-e-Fruto">Clique-me</a>
 |Página inicial|Alurinha   |:green_circle:|<a href="https://github.com/gsoaresdz/Alurinha">Clique-me</a>
 |Página inicial|Alura Store   |:green_circle:|<a href="https://github.com/gsoaresdz/Alura-Store">Clique-me</a>
