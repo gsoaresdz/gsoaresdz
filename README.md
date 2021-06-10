@@ -1,6 +1,6 @@
 # Página em constante atualização
 
-:spiral_calendar: Atualizado em 8 de Junho de 2021 💎
+:spiral_calendar: Atualizado em 10 de Junho de 2021 💎
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -44,6 +44,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Projeto|Fruta & Fruto   |:green_circle:|<a href="https://github.com/gsoaresdz/Fruta-e-Fruto">Clique-me</a>
 |Página inicial|Alurinha   |:green_circle:|<a href="https://github.com/gsoaresdz/Alurinha">Clique-me</a>
 |Página inicial|Alura Store   |:green_circle:|<a href="https://github.com/gsoaresdz/Alura-Store">Clique-me</a>
+|Página inicial|Medicenter  |:green_circle:|<a href="https://github.com/gsoaresdz/Medicenter">Clique-me</a>
 |Projeto|Devcar  |:yellow_circle:|<a href="https://github.com/gsoaresdz/Devcar">Clique-me</a>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
