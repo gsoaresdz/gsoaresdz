@@ -1,6 +1,6 @@
 # Página em constante atualização
 
-:spiral_calendar: Atualizado em 12 de Junho de 2021 💎
+:spiral_calendar: Atualizado em 13 de Junho de 2021 💎
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 - :green_circle: Concluído
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Projetos com foco em HTML5, CSS3 Sass e Bootstrap 5
+## :label: Projetos com foco em HTML5, CSS3 SASS e Bootstrap 5
 |Tipo|Nome|Status|Detalhes
 |----|----|--------|--------
 |Projeto|Sabor de Infância Gourmet|:green_circle:|<a href="https://github.com/gsoaresdz/Sabor-de-Infancia-Gourmet">Clique-me</a>
