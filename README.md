@@ -36,7 +36,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 - :green_circle: Concluído
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Projetos com foco HTML 5, CSS3 e Bootstrap 5
+## :label: Projetos com foco em HTML5, CSS3 Sass e Bootstrap 5
 |Tipo|Nome|Status|Detalhes
 |----|----|--------|--------
 |Projeto|Sabor de Infância Gourmet|:green_circle:|<a href="https://github.com/gsoaresdz/Sabor-de-Infancia-Gourmet">Clique-me</a>
@@ -45,12 +45,14 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Página inicial|Alura Store   |:green_circle:|<a href="https://github.com/gsoaresdz/Alura-Store">Clique-me</a>
 |Página inicial|Medicenter  |:green_circle:|<a href="https://github.com/gsoaresdz/Medicenter">Clique-me</a>
 |Projeto|Devcar  |:yellow_circle:|<a href="https://github.com/gsoaresdz/Devcar">Clique-me</a>
+|Projeto|Gatito Petshop  |:purple_circle:|<a href="https://github.com/gsoaresdz/Gatito-Petshop">Clique-me</a>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## :label: Projetos com foco em JavaScript
+## :label: Projetos com foco em JavaScript e Node.jS
 |Tipo|Nome|Status|Detalhes
 |----|----|--------|--------
 |Projeto|Aparecida Nutrição   |:purple_circle:|<a href="https://github.com/gsoaresdz/Aparecida-Nutricao">Clique-me</a>
+|Projeto|Sistema de Atendimento   |:purple_circle:|<a href="https://github.com/gsoaresdz/Sistema-de-Atendimento">Clique-me</a>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [<code>
