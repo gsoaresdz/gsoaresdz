@@ -46,6 +46,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Página inicial|Medicenter  |:green_circle:|<a href="https://github.com/gsoaresdz/Medicenter">Clique-me</a>
 |Projeto|Devcar  |:yellow_circle:|<a href="https://github.com/gsoaresdz/Devcar">Clique-me</a>
 |Projeto|Gatito Petshop  |:purple_circle:|<a href="https://github.com/gsoaresdz/Gatito-Petshop">Clique-me</a>
+|Projeto|Apeperia  |:purple_circle:|<a href="https://github.com/gsoaresdz/Apeperia">Clique-me</a>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :label: Projetos com foco em JavaScript e Node.jS
