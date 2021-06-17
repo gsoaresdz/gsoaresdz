@@ -10,7 +10,6 @@
 
 - Apaixonado por tecnologia.
 - Vivendo atualmente no Brasil e trabalhando remotamente. 
-- Aberta a novas oportunidades de trabalho!
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
