@@ -9,8 +9,7 @@
 # Olá! Meu nome é Gabriel Soares (:
 
 - Apaixonado por tecnologia.
-- Vivendo atualmente no Brasil e trabalhando remotamente. 
-
+- Vivendo atualmente no Brasil.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🔗 Conecte-se comigo!  
