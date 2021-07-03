@@ -1,6 +1,6 @@
 # Página em constante atualização
 
-:spiral_calendar: Atualizado em 27 de Junho de 2021 💎
+:spiral_calendar: Atualizado em 3 de Julho de 2021 💎
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -43,8 +43,6 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Página inicial|Alura Store   |:green_circle:|<a href="https://github.com/gsoaresdz/Alura-Store">Clique-me</a>
 |Página inicial|Medicenter  |:green_circle:|<a href="https://github.com/gsoaresdz/Medicenter">Clique-me</a>
 |Projeto|Devcar  |:green_circle:|<a href="https://github.com/gsoaresdz/Devcar">Clique-me</a>
-|Projeto|Gatito Petshop  |:purple_circle:|<a href="https://github.com/gsoaresdz/Gatito-Petshop">Clique-me</a>
-|Projeto|Apeperia  |:purple_circle:|<a href="https://github.com/gsoaresdz/Apeperia">Clique-me</a>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :label: Projetos com foco em JavaScript
