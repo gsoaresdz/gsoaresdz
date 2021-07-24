@@ -1,6 +1,6 @@
 # Página em constante atualização
 
-:spiral_calendar: Atualizado em 3 de Julho de 2021 💎
+:spiral_calendar: Atualizado em 24 de Julho de 2021 💎
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ## :label: Projetos com foco em JavaScript
 |Tipo|Nome|Status|Detalhes
 |----|----|--------|--------
-|Projeto|Aparecida Nutrição   |:purple_circle:|<a href="https://github.com/gsoaresdz/Aparecida-Nutricao">Clique-me</a>
+|Projeto|Compra de Pizza|:purple_circle:|<a href="https://github.com/gsoaresdz/Compra-de-Pizza">Clique-me</a>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [<code>
