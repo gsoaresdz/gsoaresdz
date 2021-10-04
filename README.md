@@ -1,6 +1,6 @@
 # Página em constante atualização
 
-:spiral_calendar: Atualizado em 27 de Agosto de 2021 💎
+:spiral_calendar: Atualizado em 04 de Setembro de 2021 💎
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
