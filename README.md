@@ -52,6 +52,13 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Projeto|Compra de Pizza|:green_circle:|<a href="https://github.com/gsoaresdz/Compra-de-Pizza">Clique-me</a>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## :label: Projetos com foco em Java
+|Tipo|Nome|Status|Detalhes
+|----|----|--------|--------
+|Projeto|Sistema de Jogo de Xadrez|:purple_circle:|<a href="https://github.com/gsoaresdz/chess-system-java">Clique-me</a>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
