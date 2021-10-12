@@ -50,6 +50,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Tipo|Nome|Status|Detalhes
 |----|----|--------|--------
 |Projeto|Compra de Pizza|:green_circle:|<a href="https://github.com/gsoaresdz/Compra-de-Pizza">Clique-me</a>
+|Projeto|Bateria|:green_circle:|<a href="https://github.com/gsoaresdz/bateria">Clique-me</a>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :label: Projetos com foco em Java
