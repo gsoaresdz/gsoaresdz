@@ -1,6 +1,6 @@
 # Página em constante atualização
 
-:spiral_calendar: Atualizado em 12 de Outubro de 2021 💎
+:spiral_calendar: Atualizado em 16 de Outubro de 2021 💎
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -43,6 +43,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Página inicial|Alura Store   |:green_circle:|<a href="https://github.com/gsoaresdz/Alura-Store">Clique-me</a>
 |Página inicial|Medicenter  |:green_circle:|<a href="https://github.com/gsoaresdz/Medicenter">Clique-me</a>
 |Projeto|Devcar  |:green_circle:|<a href="https://github.com/gsoaresdz/Devcar">Clique-me</a>
+|Projeto|Devsla  |:green_circle:|<a href="https://github.com/gsoaresdz/Devsla">Clique-me</a>
 |Projeto|Bikcraft  |:yellow_circle:|<a href="https://github.com/gsoaresdz/Bikcraft">Clique-me</a>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
