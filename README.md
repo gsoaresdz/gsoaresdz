@@ -44,7 +44,6 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Página inicial|Medicenter  |:green_circle:|<a href="https://github.com/gsoaresdz/Medicenter">Clique-me</a>
 |Projeto|Devcar  |:green_circle:|<a href="https://github.com/gsoaresdz/Devcar">Clique-me</a>
 |Página inicial|Devsla  |:green_circle:|<a href="https://github.com/gsoaresdz/Devsla">Clique-me</a>
-|Projeto|Bikcraft  |:yellow_circle:|<a href="https://github.com/gsoaresdz/Bikcraft">Clique-me</a>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :label: Projetos com foco em JavaScript
