@@ -17,7 +17,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gsoaresdesouza@gmail.com)](mailto:gsoaresdesouza@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## :bar_chart: Estatísticas e linguages
+## :bar_chart: Estatísticas e linguagens
 <p>
   <a href="https://github.com/gsoaresdz">
     <img width="450px" src="https://github-readme-stats.vercel.app/api?username=gsoaresdz&show_icons=true&theme=omni" alt="gsoaresdz :: Profile Stats" />
