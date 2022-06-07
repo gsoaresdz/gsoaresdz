@@ -1,4 +1,4 @@
-<h1 align="left">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gabriel Soares</h1>
+<h1 align="left">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="15px">, I'm Gabriel Soares</h1>
 
 - 🔭 I’m currently working on [Bullla](https://www.bullla.com.br/)
 - 🌱 I'm currently learning front-end and back-end
