@@ -26,7 +26,6 @@
 - ``Java``
 - ``Paradigma de orientação a objetos``
 - ``Python``
-- ``Power BI``
 - ``SQL``
 - ``SCRUM``
 -  ``Visual Studio Code``
