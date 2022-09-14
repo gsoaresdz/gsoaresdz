@@ -1,5 +1,5 @@
 <div align="center">
-<h4> Olá 👋 </h4>
+<h1> 👋 </h1>
 <p>Desenvolvedor de Sistemas</p>
 
 >*“Para ter sabedoria, é preciso primeiro pagar o seu preço. Use tudo o que você tem para adquirir o entendimento. Provérbios 4:7”*
