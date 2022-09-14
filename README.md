@@ -23,10 +23,10 @@
 
 ## ✔️ Tecnologias utilizadas
 
-- ``Java``
-- ``Paradigma de orientação a objetos``
+- ``Java```
 - ``Python``
 - ``SQL``
-- ``SCRUM``
--  ``Visual Studio Code``
--  ``Eclipse IDE``
+- ``HTML``
+- ``Git e GitHub``
+- ``Visual Studio Code``
+- ``Eclipse IDE``
