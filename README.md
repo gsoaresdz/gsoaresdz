@@ -4,7 +4,7 @@
 
 >*“Para ter sabedoria, é preciso primeiro pagar o seu preço. Use tudo o que você tem para adquirir o entendimento. Provérbios 4:7”*
 
-![sea](https://user-images.githubusercontent.com/69989654/190033931-8d0b204a-a028-47e6-8d79-043710c8ba11.jpg)
+![sea](https://user-images.githubusercontent.com/69989654/190036342-b8c073e6-a8f9-405b-b759-8e790e6f1990.jpg)
 
 </div>
 
