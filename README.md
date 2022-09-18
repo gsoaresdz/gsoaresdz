@@ -12,7 +12,7 @@
 
 - 🔭 Atualmente estou trabalhando na [Bullla](https://www.bullla.com.br/)
 - 🌱 Estou atualmente estudando linguagens de programação focada para o back-end
-- 🕐 No meu tempo livre, gosto de ler livros, jogar vídeo game e sentir a natureza também
+- 🕐 No meu tempo livre, gosto de ler livros, jogar vídeo game e curtir a natureza
 - 📫 Como me encontrar [LinkedIn](https://www.linkedin.com/in/gsoaresdesouza/) 
 
 #### 🎯 Objetivos 
