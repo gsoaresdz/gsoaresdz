@@ -1,13 +1,3 @@
-<div align="center">
-<h1> 👋 </h1>
-<p>Desenvolvedor de Sistemas</p>
-
->*“Para ter sabedoria, é preciso primeiro pagar o seu preço. Use tudo o que você tem para adquirir o entendimento. Provérbios 4:7”*
-
-![code](https://user-images.githubusercontent.com/69989654/190036989-fe2592e7-e120-4f1e-8e6d-9f7f654f8cef.png)
-
-</div>
-
 #### 👩‍💻 Sobre
 
 - 🔭 Atualmente estou trabalhando na [Bullla](https://www.bullla.com.br/)
