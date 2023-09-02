@@ -13,4 +13,4 @@
 
 #### ⚡ Tecnologias utilizadas
 
-- ``Java`` ``Python`` ``SQL`` ``HTML`` ``Git e GitHub`` ``Visual Studio Code`` ``Eclipse IDE``
+- ``Java`` ``Python`` ``SQL`` ``HTML`` ``CSS`` ``Visual Studio Code`` ``Eclipse IDE``
