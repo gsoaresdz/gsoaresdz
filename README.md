@@ -1,8 +1,8 @@
 #### 👩‍💻 Sobre
 
 - 🔭 Atualmente estou trabalhando na [Bullla](https://www.bullla.com.br/)
-- 🌱 Estou atualmente estudando linguagens de programação focada para o back-end
-- 🕐 No meu tempo livre, gosto de ler livros, jogar vídeo game e curtir a natureza
+- 🌱 Estou atualmente estudando linguagens de programação focada para o back-end e serviços em nuvem.
+- 🕐 No meu tempo livre, gosto de ler livros, jogar vídeo game, curtir a natureza e andar de carro (entusiasta).
 - 📫 Como me encontrar [LinkedIn](https://www.linkedin.com/in/gsoaresdesouza/) 
 
 #### 🎯 Objetivos 
@@ -13,4 +13,4 @@
 
 #### ⚡ Tecnologias utilizadas
 
-- ``Java`` ``Python`` ``SQL`` ``HTML`` ``CSS`` ``Visual Studio Code`` ``Eclipse IDE``
+- ``Java`` ``Python`` ``SQL`` ``HTML`` ``CSS`` ``React`` ``Visual Studio Code`` ``Eclipse IDE``
