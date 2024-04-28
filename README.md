@@ -1,15 +1,12 @@
-#### 👩‍💻 Sobre
+#### 👩‍💻 About ne
 
-- 🔭 Atualmente estou trabalhando na [Bullla](https://www.bullla.com.br/)
-- 🌱 Estou atualmente estudando linguagens de programação focada para o back-end e serviços em nuvem.
-- 🕐 No meu tempo livre, gosto de ler livros, jogar vídeo game, curtir a natureza e andar de carro (entusiasta).
-- 📫 Como me encontrar [LinkedIn](https://www.linkedin.com/in/gsoaresdesouza/) 
+- Passionate about Software Development, I strive to learn and improve daily. I believe that continuous learning is the key to becoming an exceptional professional, and that technology plays a crucial role in solving problems and enhancing people's quality of life. My goal is to contribute to this through my work.
 
-#### 🎯 Objetivos 
+#### 🎯 Goals 
 
-- 📂 Expandir meu repositório
-- 🚀 Me especializar, ser especialista em níveis mais profundos do que as abstrações que utilizo, entender o que está por trás da ferramenta, sendo intencional em desafiar o domínio completo de uma tecnologia.
-- 📈 Ser um excelente profissional, conhecendo todas as camadas de meu  elenco e equipes próximas. Compartilhar meu aprendizado com a equipe e outras pessoas, quebrar barreiras entre equipes, para que eu possa evoluir em criatividade, autonomia, oportunidades e adaptabilidade.
+- 📂 Expand my repository
+- 🚀 Specialize myself, becoming an expert at deeper levels than the abstractions I use, understanding what lies behind the tool, intentionally challenging the full mastery of a technology.
+- 📈 Be an excellent professional, knowing all layers of my cast and close teams. Share my learning with the team and others, break down barriers between teams, so I can evolve in creativity, autonomy, opportunities, and adaptabil
 
 #### ⚡ Tecnologias utilizadas
 
