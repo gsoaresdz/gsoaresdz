@@ -10,4 +10,4 @@
 
 #### 🛠️ Stacks 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,javascript,react,typescript,tailwind,nextjs,nodejs,cs,git,postman,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,javascript,react,java,spring,python,flask,selenium,anaconda,git,postman,vscode,eclipse,windows,linux,docker,mysql,mongodb,postgresql,elasticsearch,aws,azure,vercel)](https://skillicons.dev)
